@@ -1,0 +1,6 @@
+Risk ID,Risk Description,Asset,Likelihood,Impact,Risk Score,Rating,Treatment,Owner,Status
+R-001,Customer database breach,Customer database,4,5,20,Critical,Enable MFA and encrypt data,IT Manager,Open
+R-002,Ransomware on employee laptops,Employee laptops,4,4,16,High,Implement offline backups,Security Manager,Open
+R-003,Cloud service outage,Cloud application,3,4,12,High,Create continuity procedure,Operations Manager,Open
+R-004,Phishing account compromise,Employee accounts,4,3,12,High,Provide awareness training,HR Manager,Open
+R-005,Former employee keeps access,User accounts,3,4,12,High,Create offboarding checklist,HR Manager,Open
